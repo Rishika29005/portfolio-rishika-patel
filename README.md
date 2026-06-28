@@ -8,8 +8,7 @@ I am an AIML student passionate about web development and machine learning.
 ## Skills
 - Python
 - HTML
-- CSS
-- JavaScript
+- C++
 - GitHub
 
 ## Projects
