@@ -17,4 +17,4 @@ I am an AIML student passionate about web development and machine learning.
 ## Contact
 - Email: rishikap.9977@gmail.com
 - LinkedIn: your link
-- GitHub: https://github.com/Rishika29005/portfolio-rishika-patel/new/main
+- GitHub: https://github.com/Rishika29005/portfolio-rishika-patel/edit/main/README.md
